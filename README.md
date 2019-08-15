@@ -7,6 +7,4 @@
 - -dir 为文件存储路径 不写默认/var/dbx/dbxchain
 - -hport 为节点开启http端口号 不写默认38090
 
-[github地址](https://github.com/smartSchain/smartChain)
-
 [区块链浏览器地址](https://adcscan.adc.life)
