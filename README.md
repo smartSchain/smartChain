@@ -9,7 +9,7 @@
 - -hport 为节点开启http端口号 不写默认38090
 
 ## 交易所对接
-[交易所对接文档](../dbx-chain-server.md)
+[交易所对接文档](./dbx-chain-server.md)
 
 ## 区块链浏览器
 [区块链浏览器地址](https://adcscan.adc.life)
