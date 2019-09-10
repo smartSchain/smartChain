@@ -2,6 +2,7 @@
 
 ## 节点部署
 [节点地址](https://github.com/smartSchain/smartChain/releases/tag/2.0)
+
 [节点搭建详细教程](deploy-node.md)
 - 下载节点，上传自己linux服务器，解压并启动
 - 启动命令示例 ./witness_node -port 12008 -dir /var/dbx/dbxchain -hport 38090
