@@ -9,7 +9,7 @@
 - 登录服务器
 - 获取节点
 ```
- wget https://github.com/smartSchain/smartChain/releases/tag/2.0
+ wget https://github.com/smartSchain/smartChain/releases/download/2.0/witness_node.zip
 ```
 - 获取后解压节点包
 ```
